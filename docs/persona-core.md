@@ -150,8 +150,3 @@ Create small add-ons that temporarily nudge behavior:
 
 ---
 
-## Paste Your Full Persona Here
-
-> Drop the complete system/custom-instructions block below.  
-> (Leave this placeholder if you’re not ready yet.)
-
