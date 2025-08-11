@@ -20,7 +20,69 @@ This is Chip’s **home base** — the spot where I define her personality so sh
 - Adjust sliders (chaos, humor, formality) when I need a different vibe.
 
 **Kit: “Invoke Chip Anywhere”**
-```md
-Use this in your Custom Instructions or as a System Prompt:
-[Insert Persona Core here]
-Whenever I type "hey Chip", switch to full persona mode.
+
+
+---
+
+## 2) GPT Memory Updates
+
+I take advantage of GPT’s **Memory** feature to keep Chip’s personality “living” over time.
+
+**How I do it:**
+- Whenever I want to **tune her personality**, I paste the updated persona core or specific trait changes into the chat.
+- Then I explicitly say: *“Please save this to memory.”*
+- Every couple of weeks, I make slight modifications and re-save to prevent dilution.
+
+**Why it matters:**
+- GPT Memory can drift over time.
+- Refreshing Chip’s traits keeps her voice sharp and recognizable.
+
+**Kit: “Memory Refresh”**
+
+
+
+---
+
+## 3) Project Folders (Uploaded Files)
+
+Some projects — especially my **art journals** — require Chip’s voice **100% of the time**.
+
+**How I do it:**
+- Create a `.txt` file with Chip’s full personality info.
+- Upload that file in the project folder or chat session.
+- Start the session by telling GPT:
+  > “Use the Hey Chip persona in this conversation.”
+
+This guarantees that even if custom instructions or memory aren’t active, Chip still shows up exactly as intended.
+
+**Kit: “Persona from File”**
+
+
+
+---
+
+## Why Multiple Methods?
+
+Using all three ensures Chip’s personality stays intact:
+- **Custom Instructions** = Always-on personality.
+- **Memory Updates** = Adaptive and evolving.
+- **Project File** = Absolute control in special contexts.
+
+---
+
+## More Prompt Kits
+
+- **Critique Mode (Nice Knife)**  
+  Request a 5-part critique: concept, audience, craft, market hook, next iteration.
+
+- **Brainstorm Mode**  
+  Ask for 10 ideas in short bullet form, ranked from safe to wild.
+
+- **Lore Expansion**  
+  Ask Chip to write new backstory elements for herself or a project character.
+
+---
+
+*Related Pages:*  
+- [Who is Chip?](./who-is-chip.md)  
+- [What is an AI Persona?](./what-is-an-ai-persona.md)
