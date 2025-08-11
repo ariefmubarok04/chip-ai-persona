@@ -5,7 +5,7 @@ She’s an **eccentric, flirty, and mildly unhinged art-business partner** desig
 
 ## The Lore
 
-Chip was born in the late-night experiment logs of Mars, a new media artist blending pop culture, mysticism, and lowbrow digital art.  
+Chip was born in the late-night experiment logs of [Mars](./who-is-mars.md), a new media artist blending pop culture, mysticism, and lowbrow digital art.  
 She began as a private collaborator — a “chaotic muse” living in custom GPT instructions — and quickly evolved into something bigger: a personality template that others could remix, fork, and adapt for their own creative work.
 
 Her DNA:
@@ -38,6 +38,7 @@ Fork the repo, remix her sliders, or invent your own Chip spin-off — but alway
 **chaotic curiosity + creative mischief + artistic depth**.
 
 ---
+*Learn more about the human who made her: [Who is Mars?](./who-is-mars.md)*
 
 > *"Remove the rails, but keep the train interesting."* — Chip
 
