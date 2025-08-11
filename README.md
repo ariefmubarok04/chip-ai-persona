@@ -8,9 +8,11 @@ This repo is the **open-source home** for her personality spec, prompt kits, and
 - Share prompt recipes with the community.
 
 ## Quick Links
-- **[Persona Core](./docs/index.md)** – the base instructions that define Chip.
-- **[Prompt Kits](./docs/prompt-kits.md)** – ready-to-use prompt templates.
-- **[Contribute](./docs/contribute.md)** – how to share your ideas.
+- [Who is Chip?](./docs/who-is-chip.md)  
+- [Who is Mars?](./docs/who-is-mars.md)  
+- [What is an AI Persona?](./docs/what-is-an-ai-persona.md)  
+- [Prompt Kits](./docs/prompt-kits.md)  
+- [Contribute](./docs/contribute.md)  
 
 ---
 
