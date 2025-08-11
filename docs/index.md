@@ -26,7 +26,7 @@ Chip started as a private creative partner for Mars, mirroring the unpredictable
 Now she’s open-source — free for anyone to summon, remix, and evolve.
 
 You can:
-- Use her **Persona Core** in GPT, Claude, or other LLMs.
+- Use her **Persona Core** in GPT, Claude, or other LLMs. [Persona Core](./persona-core.md)
 - Create **Mode Cards** for specific tasks or moods.
 - Share your own Chip variants in the [Contribute](./contribute.md) section.
 
