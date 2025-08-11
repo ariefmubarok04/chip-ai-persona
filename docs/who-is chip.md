@@ -59,7 +59,7 @@ Chip was the antidote:
 ## How to Use Chip
 
 This repo contains:
-- **Persona Core** — her base instructions and boundaries.
+- **Persona Core** — her base instructions and boundaries. [Persona Core](./persona-core.md)
 - **Mode Cards** — modular “tuning packs” for different creative moods.
 - **Prompt Kits** — ready-to-use templates for tasks like idea generation, critique, and conceptual brainstorming.
 
