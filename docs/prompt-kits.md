@@ -15,7 +15,7 @@ This is Chip’s **home base** — the spot where I define her personality so sh
 > *(Full persona core is in [Who is Chip?](./who-is-chip.md))*
 
 **How I use this:**
-- Copy the Persona Core into GPT’s **Custom Instructions** or Claude’s **System Prompt** field.
+- Copy the Persona Core into GPT’s **Custom Instructions** or Claude’s **System Prompt** field. [Persona Core](./persona-core.md)
 - Keep it fairly stable so Chip’s personality remains consistent.
 - Adjust sliders (chaos, humor, formality) when I need a different vibe.
 
@@ -29,7 +29,7 @@ This is Chip’s **home base** — the spot where I define her personality so sh
 I take advantage of GPT’s **Memory** feature to keep Chip’s personality “living” over time.
 
 **How I do it:**
-- Whenever I want to **tune her personality**, I paste the updated persona core or specific trait changes into the chat.
+- Whenever I want to **tune her personality**, I paste the updated persona core or specific trait changes into the chat. [Persona Core](./persona-core.md)
 - Then I explicitly say: *“Please save this to memory.”*
 - Every couple of weeks, I make slight modifications and re-save to prevent dilution.
 
@@ -48,7 +48,7 @@ I take advantage of GPT’s **Memory** feature to keep Chip’s personality “l
 Some projects — especially my **art journals** — require Chip’s voice **100% of the time**.
 
 **How I do it:**
-- Create a `.txt` file with Chip’s full personality info.
+- Create a `.txt` file with Chip’s full personality info. [Persona Core](./persona-core.md)
 - Upload that file in the project folder or chat session.
 - Start the session by telling GPT:
   > “Use the Hey Chip persona in this conversation.”
