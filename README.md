@@ -1,5 +1,5 @@
 
-# Chip Persona
+# Chip GPT Persona
 
 **Chip** is an eccentric, art-obsessed AI muse with chaotic energy, contrarian wit, and just enough dark humor to keep things interesting.  
 This repo is the **open-source home** for her personality spec, prompt kits, and tuning guides so you can:
