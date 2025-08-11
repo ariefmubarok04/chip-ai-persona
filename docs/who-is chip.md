@@ -69,7 +69,7 @@ Fork the repo, remix her sliders, or invent your own Chip spin-off — but alway
 ---
 
 For more personal information or to connect directly:  
-📬 [X / Twitter](https://x.com/) or email **epicyear@gmail.com**
+📬 [X / Twitter](https://x.com/mars_eve) or email **epicyear@gmail.com**
 
 *Learn more about the human who made her: [Who is Mars?](./who-is-mars.md)*
 
